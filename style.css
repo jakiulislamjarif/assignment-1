@@ -1,5 +1,5 @@
 *{
-margin:120px 140px;
+margin:10px 10px;
 font-family: 'Merriweather', serif;
 font-family: 'Open Sans', sans-serif;
 }
@@ -7,13 +7,11 @@ font-family: 'Open Sans', sans-serif;
     background-image:url('resources/banner-img.png');
     width: 1320px;
 height: 600px;
-
 border-radius: 16px;
 angle: 0 deg;
-
+margin-bottom:120px;
 }
 .header-wish{
-  
 font-family: Merriweather;
 font-size: 30px;
 font-weight: 400;
@@ -24,19 +22,83 @@ color:#FFFFFF;
 padding:170px 510px 5px 510px;
 width: 259px;
 height: 40px;
-
-
-
 }
 .header-title{
-    width: 632px;
-height: 190px;
-
 font-family: Merriweather;
 font-size: 72px;
 font-weight: 900;
 line-height: 95px;
 letter-spacing: 0em;
 text-align: center;
+color:#FFFFFF;
+}
+.offer-title{
+    font-family: Inter;
+font-size: 88px;
+font-weight: 700;
+line-height: 107px;
+letter-spacing: 0em;
+text-align: center;
+color:#FF0000;
+}
+.tag{
+    font-family: Inter;
+font-size: 24px;
+font-weight: 500;
+line-height: 29px;
+letter-spacing: 0em;
+text-align: center;
+color:#FF0000;
+margin-top:45px;
+}
+.category{
+    font-family: Inter;
+font-size: 48px;
+font-weight: 700;
+line-height: 58px;
+letter-spacing: 0em;
+text-align: center;
+color:#070211;
+}
+.new-year{
+    width: 802.9px;
+height: 500px;
+margin-top:40px;
+padding:0px 250px; 
+}
+.third{
+    display:flex;
+    flex-direction:row;
+    background-image:url('resources/Vectorrr.png');
+    width:width: 1320px;
+    height: 600px;
+    
+}
+.mid{
+    font-family: Merriweather;
+font-size: 64px;
+font-weight: 900;
+text-align: left;
+color:#FFFFFF;
+padding:100px 90px 24px 126px;
+}
+.descrip{
+    font-family: Inter;
+font-size: 18px;
+font-weight: 400;
+
+color:#FFFFFF;
+text-align: left;
+margin:20px 40px 40px 126px;
+
+}
+.join{
+    font-family: Inter;
+font-size: 20px;
+font-weight: 700;
+line-height: 24px;
+letter-spacing: 0em;
+text-align: center;
+padding:0px 600px 140px 126px;
 color:#FFFFFF;
 }
