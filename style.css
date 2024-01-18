@@ -72,7 +72,8 @@ padding:0px 250px;
     background-image:url('resources/Vectorrr.png');
     width:width: 1320px;
     height: 600px;
-    
+    color:#070211, #07021100;
+    margin-top:120px;
 }
 .mid{
     font-family: Merriweather;
@@ -101,4 +102,111 @@ letter-spacing: 0em;
 text-align: center;
 padding:0px 600px 140px 126px;
 color:#FFFFFF;
+}
+.place{
+    width: 1320px;
+height: 482px;
+
+margin-top:120px;
+align-items: center;
+background-image: linear-gradient(to bottom,rgba(255, 0, 0, 1), rgba(255, 0, 0, 0));
+
+}
+.dis{
+    font-family: Inter;
+font-size: 32px;
+font-weight: 600;
+line-height: 56px;
+letter-spacing: 0em;
+text-align: center;
+
+}
+.btn-primary{
+    font-family: Inter;
+font-size: 20px;
+font-weight: 700;
+line-height: 24px;
+letter-spacing: 0em;
+text-align: center;
+width: Hug (167px);
+height: Hug (56px);
+border-radius: 8px;
+gap: 10px;
+color:#FFFFFF;
+background-color:#FF0000;
+
+margin:40px 600px 126px 600px;
+}
+
+    .mida {
+        border-radius: 100%;
+        width: 200px;
+        height: 200px;
+        display: inline-block;
+        background-color: white;
+        border-top: 15px solid red;
+        border-left: 15px solid red;
+        border-right: 15px solid red;
+        border-bottom: 15px solid red;
+     
+        width: 380px;
+height: 380px;
+      }
+      
+.smile{
+    width: 364.84px;
+height: 364.84px;
+}
+.offer{
+    display:flex;
+    flex-direction: row;
+    margin-top:120px;
+}
+.best{
+    color:#FF0000;
+    font-family: Inter;
+font-size: 24px;
+font-weight: 500;
+
+}
+.coming{
+    color:#070211;
+    font-family: Merriweather;
+font-size: 48px;
+font-weight: 900;
+text-align: left;
+}
+.describe{
+    color:#07021199;
+}
+.year{
+    color:#FF0000;
+    font-family: Inter;
+font-size: 48px;
+font-weight: 700;
+}
+.description{
+    font-family: Inter;
+font-size: 20px;
+font-weight: 400;
+
+color:#07021199;
+}
+.emoji{
+    width: 140px;
+height: 140px;
+}
+.upper{
+    text-align: center;
+}
+.functional{
+    text-align: center;
+}
+.sale{
+    width: 1320px;
+height: 7335px;
+margin-top:120px;
+}
+.pic{
+    margin-top:65px;
 }
