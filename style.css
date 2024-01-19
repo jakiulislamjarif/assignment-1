@@ -204,9 +204,108 @@ height: 140px;
 }
 .sale{
     width: 1320px;
-height: 7335px;
+height: 800px;
 margin-top:120px;
+margin-bottom:120px;
 }
 .pic{
     margin-top:65px;
 }
+.parent {
+    position: relative;
+    top: 0;
+    left: 0;
+  }
+  
+  .image1 {
+
+
+width: 429px;
+height: 433px;
+
+border-radius: 16px, 16px, 0px, 0px;
+
+position: absolute;
+
+border: 1px solid #000000;
+top: 0px;
+left:30px;
+
+  }
+  
+  .image2 {
+    position: relative;
+    top: 0;
+    left: -60px;
+    border: 1px solid #000000;
+    background-image:url("resources/Rectangle 2.png");
+    width: 1320px;
+height: 229px;
+
+border-radius: 16px, 0px, 16px, 16px;
+margin-top:1px;
+
+width: 206.84px;
+height: 206.84px;
+
+angle: 34.21 deg;
+
+margin:86px 0px  60px  0px;
+  }
+.pic{
+    display:flex;
+    flex-direction: row;
+}
+.best-gift{
+    font-family: Inter;
+font-size: 24px;
+font-weight: 500;
+text-align: left;
+color: #FF0000;
+}
+.awesome{
+    font-family: Merriweather;
+font-size: 48px;
+font-weight: 900;
+text-align: left;
+color:#070211;
+}
+.awesome-description{
+    font-family: Inter;
+font-size: 20px;
+font-weight: 400;
+
+text-align: left;
+color:#07021199;
+}
+.portfolio{
+    width: 1600px;
+height: 735px;
+background-color:#FFFFFF;
+}
+.picture{
+    width: 1620px;
+height: 635px;
+
+}
+.elements{
+    margin-bottom:100px;
+}
+
+
+
+<div class="news">
+  <img src="resources/Group 61.png" class="me">
+  <h1 class="subscribe">Subscribe Newsletter</h1>
+  <p>Dolor sit amet consectetur. Consequat eget consectetur maecenas sed molestie malesuada. Ipsum sed sodales risus ut pellentesque vel euismod. </p>
+
+</div>
+/* Your existing CSS styles go here */
+
+.new {
+    width: 1320px;
+    height: 616px;
+    border-radius: 16px;
+    /* Add any additional styles for the 'new' class if needed */
+  }
+  
