@@ -289,23 +289,115 @@ height: 635px;
 
 }
 .elements{
-    margin-bottom:100px;
+    margin-bottom:150px;
+    width:1320px;
+    height:1000px;
+
 }
 
+.picture{
+    margin-bottom:180px;
+}
 
-
-<div class="news">
-  <img src="resources/Group 61.png" class="me">
-  <h1 class="subscribe">Subscribe Newsletter</h1>
-  <p>Dolor sit amet consectetur. Consequat eget consectetur maecenas sed molestie malesuada. Ipsum sed sodales risus ut pellentesque vel euismod. </p>
-
-</div>
-/* Your existing CSS styles go here */
+ existing CSS styles go here */
 
 .new {
     width: 1320px;
-    height: 616px;
-    border-radius: 16px;
+    height: 900px;
+    
+    background-color:black;
+
+}
     /* Add any additional styles for the 'new' class if needed */
   }
+ 
+  .email-form {
+    display: flex;
+    align-items: center;
+  }
   
+  input[type="email"] {
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    margin-right: 5px;
+    width: 200px; /* Adjust the width as needed */
+  }
+  
+  button {
+    padding: 10px 15px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  .add{
+    text-align: left;
+    font-family: Inter;
+font-size: 24px;
+font-weight: 500;
+line-height: 40px;
+letter-spacing: 0em;
+text-align: left;
+  }
+.num{
+    font-family: Inter;
+font-size: 24px;
+font-weight: 500;
+line-height: 40px;
+letter-spacing: 0em;
+text-align: left;
+
+}
+.earth{
+    font-family: Inter;
+font-size: 24px;
+font-weight: 500;
+line-height: 40px;
+letter-spacing: 0em;
+text-align: left;
+
+}
+.last{
+    width: 1320x;
+height: 609px;
+background-color:#070211;
+color:#FFFFFF;
+
+
+}
+.lsti{
+    display:flex;
+    flex-direction: row;
+    width: 1320px;
+    height:180px;
+    justify-content:space-beetween;
+    gap:80px;
+
+}
+.line{
+    margin-top:20px;
+}
+.last-left{
+
+}
+.logo{
+    align-items: center;
+    margin:40px 400px 40px 400px;
+}
+.right{
+    font-family: Inter;
+    font-size: 24px;
+    font-weight: 500;
+    color:#FFFFFF;
+    text-align: left;
+    margin:50px 100px 50px 50px;
+}
+.un{
+    font-family: Inter;
+    font-size: 24px;
+    font-weight: 500;
+     color:#FFFFFF;
+    text-align: right;
+}
